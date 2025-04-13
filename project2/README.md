@@ -1,1 +1,1 @@
-this is new projectg
+this is new git
